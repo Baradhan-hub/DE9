@@ -29,7 +29,7 @@ From the above characteristic table, we can directly write the next state equati
 
 **PROGRAM**
 ```
-Developed by: SURYA D RegisterNumber: 24901185
+Developed by:Baradhan.L RegisterNumber: 24005473
 ```
 T Flipflop
 ```
